@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-arya.rime.co	TRUE	/	FALSE	1999999999	ci_session	ieo388p0nfr945lh9uto7df33oqurvgd
-
