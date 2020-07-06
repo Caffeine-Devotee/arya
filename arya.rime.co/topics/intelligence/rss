@@ -2,17 +2,17 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
     <channel>
         <title>
-            <![CDATA[ Stories by Arya Rime ]]>
+            <![CDATA[ Stories by Arya ]]>
         </title>
         <description>
-            <![CDATA[ Stories by Arya Rime ]]>
+            <![CDATA[ Stories by Arya ]]>
         </description>
         <link>
             http://arya.rime.co        </link>
         <image>
             <url>
                 https://api.tumblr.com/v2/blog/arya-rime.tumblr.com/avatar/128            </url>
-            <title>Stories by Arya Rime</title>
+            <title>Stories by Arya</title>
             <link>
                 http://arya.rime.co            </link>
         </image>
@@ -48,7 +48,7 @@
                             <![CDATA[ google ]]>
                         </category>
                                         <dc:creator>
-                    <![CDATA[ Arya Rime ]]>
+                    <![CDATA[ Arya ]]>
                 </dc:creator>
                 <pubDate>2017-05-31 23:17:54 GMT</pubDate>
                 <atom:updated>2017-06-01 05:33:33</atom:updated>
